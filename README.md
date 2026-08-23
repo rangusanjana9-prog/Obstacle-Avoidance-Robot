@@ -41,5 +41,10 @@ direction.
 
 ##  Author
 
-Sanjana
-B.Tech Electronics and Communication Engineering
+* **Rangu Sanjana** 
+* **GitHub:** [@rangusanjana9-prog](https://github.com/rangusanjana9-prog)
+* **Project Role:** Developer & Hardware Integrator
+* **Institution :** [Balaji Institute of Technology and Science]
+
+##  Acknowledgments
+* Inspired by foundational autonomous robotics research and open-source Arduino communities.
